@@ -1,0 +1,95 @@
+{
+  "audioList": [
+    {
+      "langCode": "en",
+      "url": "processed/azharengineering2020/ut1/Azhar/80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video.mp3",
+      "langName": "English",
+      "duration": 164
+    },
+    {
+      "langCode": "ar",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_ar.mp3",
+      "langName": "Arabic",
+      "duration": 222.288
+    },
+    {
+      "langCode": "fr",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_fr.mp3",
+      "langName": "French",
+      "duration": 178.104
+    },
+    {
+      "langCode": "es",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_es.mp3",
+      "langName": "Spanish",
+      "duration": 195.432
+    },
+    {
+      "langCode": "de",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_de.mp3",
+      "langName": "German",
+      "duration": 190.224
+    },
+    {
+      "langCode": "it",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_it.mp3",
+      "langName": "Italian",
+      "duration": 194.112
+    },
+    {
+      "langCode": "tr",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_tr.mp3",
+      "langName": "Turkish",
+      "duration": 202.488
+    }
+  ],
+  "vttList": [
+    {
+      "langCode": "en",
+      "langName": "English",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_en.vtt"
+    },
+    {
+      "langCode": "eg",
+      "langName": "Egyptian Style",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_eg.vtt"
+    },
+    {
+      "langCode": "ar",
+      "langName": "Arabic",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_ar.vtt"
+    },
+    {
+      "langCode": "fr",
+      "langName": "French",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_fr.vtt"
+    },
+    {
+      "langCode": "es",
+      "langName": "Spanish",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_es.vtt"
+    },
+    {
+      "langCode": "de",
+      "langName": "German",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_de.vtt"
+    },
+    {
+      "langCode": "it",
+      "langName": "Italian",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_it.vtt"
+    },
+    {
+      "langCode": "hi",
+      "langName": "Hindi",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_hi.vtt",
+      "signedurl": ""
+    },
+    {
+      "langCode": "tr",
+      "langName": "Turkish",
+      "url": "processed/azharengineering2020/ut1/Azhar/323d56a3-f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video_tr.vtt",
+      "signedurl": ""
+    }
+  ]
+}
