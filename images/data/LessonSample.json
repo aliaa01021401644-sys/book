@@ -1,0 +1,130 @@
+{
+    "ontology": [
+        {
+            "id": "555e1a6c765f11ee947f5680f0a8407b",
+            "name": "Smart Objects Lesson",
+            "description": "Smart Objects",
+            "depth": "1",
+            "children": [
+                {
+                    "name": "Molecular introduction",
+                    "id": null,
+                    "parentId": "555e1a6c765f11ee947f5680f0a8407b",
+                    "aims": {
+                        "cognintive": "understand",
+                        "verbs": [
+                            {
+                                "label": "Define",
+                                "value": "define",
+                                "question": "Define Respiration in human"
+                            }
+                        ],
+                        "teachingStrategy": "",
+                        "aimObjects": [
+                            {
+                                "id": "60a2ceb601b1e64d520112ff",
+                                "title": "Molecule Structure Introduction (mp4)",
+                                "nameInLesson": "Molecule Structure Introduction (mp4)",
+                                "type": "mp4",
+                                "ir": "explanation",
+                                "topic": "Video Object",
+                                "url": "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.amazonaws.com/molecules_video_data/f469-42d5-9d45-b2abaf392d0d_80f447bb-dac0-4a8a-8613-c730f4f47e8b_Molecular_Structure_intro_video.mp4"
+                            }
+                        ],
+                        "roles": [
+                            "explanation"
+                        ]
+                    }
+                },
+                {
+                    "name": "Respiration in human",
+                    "id": null,
+                    "parentId": "555e1a6c765f11ee947f5680f0a8407b",
+                    "aims": {
+                        "cognintive": "understand",
+                        "verbs": [
+                            {
+                                "label": "Define",
+                                "value": "define",
+                                "question": "Define Respiration in human"
+                            }
+                        ],
+                        "teachingStrategy": "",
+                        "aimObjects": [
+                            {
+                                "id": "636796c2cfa1425a643d7b6c",
+                                "title": "Respiration in Humans_edit",
+                                "nameInLesson": "Respiration in Humans_edit",
+                                "type": "pdf",
+                                "ir": "explanation",
+                                "topic": "Video Object",
+                                "url": "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.amazonaws.com/pdf_sample_data/373e37ec-f17f-4be8-844c-780a616e6b95_Respiration_in_Man.pdf"
+                            }
+                        ],
+                        "roles": [
+                            "explanation"
+                        ]
+                    },
+                    "children": [],
+                    "expanded": true
+                },
+                {
+                    "name": "Exercise",
+                    "id": null,
+                    "parentId": "555e1a6c765f11ee947f5680f0a8407b",
+                    "aims": {
+                        "cognintive": "understand",
+                        "verbs": [
+                            {
+                                "label": "Define",
+                                "value": "define",
+                                "question": "Define Respiration in human"
+                            }
+                        ],
+                        "teachingStrategy": "",
+                        "aimObjects": [
+                            {
+                                "id": "698f3803425efb7af5f10fec",
+                                "title": "العدد الذري",
+                                "nameInLesson": "العدد الذري",
+                                "type": "html",
+                                "ir": "explanation",
+                                "topic": "Video Object",
+                                "url": "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/new-interactive-objects/objects/العدد-الذري-675c24110d13c2000311fee5.html"
+                            }
+                        ],
+                        "roles": [
+                            "explanation"
+                        ],
+                        "pre_requisites": ""
+                    }
+                }
+            ],
+            "expanded": true
+        }
+    ],
+    "lessonObjects": [],
+    "glossary": [
+        {
+            "definition": "In solid-state physics, the free electron model is a quantum mechanical model for the behaviour of charge carriers in a metallic solid. It was developed in 1927, principally by Arnold Sommerfeld, who combined the classical Drude model with quantum mechanical Fermi–Dirac statistics and hence it is also known as the Drude–Sommerfeld model.",
+            "tag": "Wikipedia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Free-electron_DOS.svg",
+            "summary": "In solid-state physics, the free electron model is a quantum mechanical model for the behaviour of charge carriers in a metallic solid. It was developed in 1927, principally by Arnold Sommerfeld, who combined the classical Drude model with quantum mechanical Fermi–Dirac statistics and hence it is also known as the Drude–Sommerfeld model.\nGiven its simplicity, it is surprisingly successful in explaining many experimental phenomena, especially\n\nthe Wiedemann–Franz law which relates electrical conductivity and thermal conductivity;\nthe temperature dependence of the electron heat capacity;\nthe shape of the electronic density of states;\nthe range of binding energy values;\nelectrical conductivities;\nthe Seebeck coefficient of the thermoelectric effect;\nthermal electron emission and field electron emission from bulk metals.\nThe free electron model solved many of the inconsistencies related to the Drude model and gave insight into several other properties of metals. The free electron model considers that metals are composed of a quantum electron gas where ions play almost no role. The model can be very predictive when applied to alkali and noble metals.\n\n"
+        },
+        {
+            "tag": "wikipedia",
+            "definition": "The respiratory system (also respiratory apparatus, ventilatory system) is a biological system consisting of specific organs and structures used for gas exchange in animals and plants. The anatomy and physiology that make this happen varies greatly, depending on the size of the organism, the environment in which it lives and its evolutionary history.",
+            "summary": "The respiratory system (also respiratory apparatus, ventilatory system) is a biological system consisting of specific organs and structures used for gas exchange in animals and plants. The anatomy and physiology that make this happen varies greatly, depending on the size of the organism, the environment in which it lives and its evolutionary history. In land animals, the respiratory surface is internalized as linings of the lungs. Gas exchange in the lungs occurs in millions of small air sacs; in mammals and reptiles, these are called alveoli, and in birds, they are known as atria. These microscopic air sacs have a very rich blood supply, thus bringing the air into close contact with the blood. These air sacs communicate with the external environment via a system of airways, or hollow tubes, of which the largest is the trachea, which branches in the middle of the chest into the two main bronchi. These enter the lungs where they branch into progressively narrower secondary and tertiary bronchi that branch into numerous smaller tubes, the bronchioles. In birds, the bronchioles are termed parabronchi. It is the bronchioles, or parabronchi that generally open into the microscopic alveoli in mammals and atria in birds. Air has to be pumped from the environment into the alveoli or atria by the process of breathing which involves the muscles of respiration.\nIn most fish, and a number of other aquatic animals (both vertebrates and invertebrates), the respiratory system consists of gills, which are either partially or completely external organs, bathed in the watery environment. This water flows over the gills by a variety of active or passive means. Gas exchange takes place in the gills which consist of thin or very flat filaments and lammellae which expose a very large surface area of highly vascularized tissue to the water.\nOther animals, such as insects, have respiratory systems with very simple anatomical features, and in amphibians, even the skin plays a vital role in gas exchange. Plants also have respiratory systems but the directionality of gas exchange can be opposite to that in animals. The respiratory system in plants includes anatomical features such as stomata, that are found in various parts of the plant.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Altitude_and_air_pressure_%26_Everest.jpg"
+        }
+    ],
+    "_id": "699318a33894c540ae5f880c",
+    "title": "Lesson Sample",
+    "description": "",
+    "language": "en",
+    "domainName": "Scube Test Domain",
+    "subDomainName": "Scube Test Sub Domain",
+    "conceptName": "Smart Objects Lesson",
+    "depth": 1,
+    "cognitive": "understand"
+}
