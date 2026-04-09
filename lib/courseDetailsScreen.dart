@@ -6,6 +6,9 @@ import 'package:news/coursemodel.dart';
 import 'package:news/lessonModel.dart';
 import 'package:news/lessontile.dart';
 
+import 'Exercisepage.dart';
+import 'Exercisetab.dart';
+import 'contenttab.dart';
 import 'courseProgress.dart';
 
 class CourseDetailsScreen extends StatelessWidget {
@@ -16,7 +19,7 @@ class CourseDetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
-      length: 2,
+      length: 4,
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.amber,
@@ -27,6 +30,8 @@ class CourseDetailsScreen extends StatelessWidget {
             tabs: [
               Tab(text: "Contents",),
               Tab(text: "Glossary"),
+              Tab(text: "Exercise",),
+              Tab(text: "Content",)
             ],
           ),
         ),
@@ -62,8 +67,11 @@ class CourseDetailsScreen extends StatelessWidget {
                 ],
               ),
               GlossaryTab(glossary: course.glossary),
-
-            ]
+           //QuestionTab(),
+           ExerciseTab(),
+           //ExercisePage(exerciseUrl: "https://scube-applications-media54cbabfc-u3d19945rbtv.s3.eu-west-1.amazonaws.com/new-interactive-objects/objects/العدد-الذري-675c24110d13c2000311fee5.html",),
+           ContentPage(),
+         ]
 
           ),
 
