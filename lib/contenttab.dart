@@ -3,9 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:news/pdfLesson.dart';
 import 'package:news/vedio2.dart';
+import 'package:provider/provider.dart';
 
 import 'Exercisepage.dart';
 import 'Exercisetab.dart';
+import 'core/Widget/vedio/videosurvices/videoprovider.dart';
+import 'core/Widget/vedio/videosurvices/videoveiw.dart';
 
 
 
@@ -97,11 +100,17 @@ class _ContentPageState extends State<ContentPage> {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context)=>VideoPage(
-                            url: obj["url"],
-                            title: obj["title"],
-                          ),
+                          builder: (context){
+                            return ChangeNotifierProvider(create: (innerContext)=>VideoProvider(),child:Videoveiw() ,);
+                          }
+                              //)
+
+                          // builder: (context)=>VideoPage(
+                          //   url: obj["url"],
+                          //   title: obj["title"],
+                          // ),
                         ),
+
                       );
 
                     }

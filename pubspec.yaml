@@ -53,6 +53,10 @@ dependencies:
   provider: ^6.1.2
   just_audio: ^0.9.36
   webview_flutter: ^4.7.0
+  fluttertoast: ^8.2.1
+  media_kit: ^1.1.10
+  media_kit_video: ^1.2.4
+  media_kit_libs_video: ^1.0.7
 
   #just_audio: ^0.9.36
 
@@ -90,6 +94,7 @@ flutter:
   - assets/files/PDFSample.json
   - assets/files/PDFSample2.json
   - assets/files/PDFSample3.json
+  - assets/files/
 
   #   - images/a_dot_ham.jpeg
 
